@@ -42,7 +42,6 @@ Source: Superstore Dataset on Kaggle
 
 ##### Dashboard preview
 
-!\[Superstore](Screenshot/Dashboard\_Screenshot.png)
 ![Superstore](Screenshot/Dashboard\_Screenshot.png)
 
 
@@ -61,11 +60,9 @@ Source: Superstore Dataset on Kaggle
 
 
 ##### Files
-
-* SQL/Superstore_SQL.sql — SQL queries used for the analysis
-* Power_Bi/Superstore_dashboard.pbix— Power BI dashboard
-* Superstore_Orginal/Sample_Superstore.csv— Original dataset
-* Screenshot/Dashboard_Screenshot.png— Dashboard screenshot
+* [SQL Queries](SQL/Superstore_SQL.sql) — SQL queries used for the analysis
+* [Power BI Dashboard](Power_Bi/Superstore_dashboard.pbix) — Power BI dashboard
+* [Original Dataset](Superstore_Orginal/Sample_Superstore.csv) — Original dataset
 
 
 
