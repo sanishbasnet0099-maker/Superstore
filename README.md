@@ -62,10 +62,6 @@ Source: Superstore Dataset on Kaggle
 
 ##### Files
 
-* SQL/Superstore\_SQL.sql — SQL queries used for the analysis
-* Power\_Bi/Superstore\_dashboard.pbix— Power BI dashboard
-* Superstore\_Orginal/Sample\_Superstore.csv— Original dataset
-* Screenshot/Dashboard\_Screenshot.png— Dashboard screenshot
 * SQL/Superstore_SQL.sql — SQL queries used for the analysis
 * Power_Bi/Superstore_dashboard.pbix— Power BI dashboard
 * Superstore_Orginal/Sample_Superstore.csv— Original dataset
