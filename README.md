@@ -42,7 +42,7 @@ Source: Superstore Dataset on Kaggle
 
 ##### Dashboard preview
 
-!\[Superstore Dashboard](Screenshot/Dashboard\_Screenshot.png)
+!\[Superstore](Screenshot/Dashboard\_Screenshot.png)
 
 
 
